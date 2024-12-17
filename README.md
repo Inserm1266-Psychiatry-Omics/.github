@@ -1,1 +1,1 @@
-# .github
+# IPNP-InfoGene
